@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    background-position: center;
+    background-size: cover;
+    height: 4000px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
+
+.body-image{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+}
+
+.body-image-2{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    height: 100%;
+    margin-right: 20px;
+    padding-bottom:  8px; 
+}
+
+
+
+
+
+
+
+
+
+
+.image{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin-top: 15px;
+}
+
+
+
+.image-1{
+    margin-bottom: 60px;
+    width: 100%;
+    height: 100%;
+    background-image: url(picture/cambodia.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 5px 15px 25px 1px rgb(87, 87, 87);
+}
+.image-2{
+    margin-bottom: 40px;
+    width: 100%;
+    height: 100%;
+    background-image: url(picture/korea.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 5px 15px 25px 1px rgb(87, 87, 87);
+}
+.image-3{
+    margin-bottom: 40px;
+    width: 100%;
+    height: 100%;
+    background-image: url(picture/japan.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 5px 15px 25px 1px rgb(87, 87, 87);
+}
+.image-4{
+    margin-bottom: 40px;
+    width: 100%;
+    height: 100%;
+    background-image: url(picture/Singapore.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 5px 15px 25px 1px rgb(87, 87, 87);
+}
+.image-5{
+    margin-bottom: 40px;
+    width: 100%;
+    height: 100%;
+    background-image: url(picture/paris.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 5px 15px 25px 1px rgb(87, 87, 87);
+}
+.image-6{
+    margin-bottom: 40px;
+    width: 100%;
+    height: 100%;
+    background-image: url(picture/China.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 5px 15px 25px 1px rgb(87, 87, 87);
+}
+.image-7{
+    margin-bottom: 40px;
+    width: 100%;
+    height: 100%;
+    background-image: url(picture/switzerland.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 5px 15px 25px 1px rgb(87, 87, 87);
+}
+.image-8{
+    margin-bottom: 40px;
+    width: 100%;
+    height: 100%;
+    background-image: url(picture/Indonesia.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 5px 15px 25px 1px rgb(87, 87, 87);
+}
+.image-9{
+    margin-bottom: 40px;
+    width: 100%;
+    height: 100%;
+    background-image: url(picture/Thailand.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 5px 15px 25px 1px rgb(87, 87, 87);
+}
+.image-10{
+    width: 100%;
+    height: 100%;
+    background-image: url(picture/vietnam.jpg);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 5px 15px 25px 1px rgb(87, 87, 87);
+}
+
+
+
+
+
+
+
+
+
+
+
+.para-body{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 100%;
+    margin-top: 15px;
+}
+.all-para{
+    width: 100%;
+    height: 100%;
+}
+
+
+.one {
+    margin: 1px;
+    margin-bottom: 60px;
+    width: 100%;
+    height: 360px;
+    display: flex;
+    flex-direction: column;
+}
+.two {
+    margin-bottom: 40px;
+    width: 100%;
+    height: 360px;
+}
+.three {
+    margin-bottom: 41px;
+    width: 100%;
+    height: 360px;
+}
+.four {
+    margin-bottom: 40px;
+    width: 100%;
+    height: 360px;
+}
+.five {
+    margin-bottom: 40px;
+    width: 100%;
+    height: 360px;
+}
+.sex {
+    margin-bottom: 40px;
+    width: 100%;
+    height: 360px;
+}
+.seven {
+    margin-bottom: 40px;
+    width: 100%;
+    height: 360px;
+}
+.eight {
+    margin-bottom: 40px;
+    width: 100%;
+    height: 360px;
+}
+.nine {
+    margin-bottom: 40px;
+    width: 100%;
+    height: 360px;
+}
+.ten {
+    margin-bottom: 40px;
+    width: 100%;
+    height: 360px;
+}

@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.left-right{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-items: flex-start;
+    padding: 0 10px 0 10px;
+    height: 91%;
+    width: 100%;
+}

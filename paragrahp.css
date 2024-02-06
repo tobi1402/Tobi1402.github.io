@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+.name{
+    padding: 10px;
+    width: 100%;
+    height: 70%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    font-size: 10rem;
+}
+.booking {
+    height: 107px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.inbook{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 80%;
+    height: 100%;
+    margin-left: 10px;
+}
+.prices{
+    font-size: 30px;
+}
+.paara{
+    font-size: 15px;
+}
+.button{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 20%;
+    height: 100%;
+
+    
+}
+.buttonn{
+    padding: 5px;
+    box-shadow: 5px 5px 10px 1px rgb(87, 87, 87);
+    border-radius: 5px;
+    border: solid 1px black;
+    background-color: white;
+    transition: 0.4s;
+}
+
+
+
+
+
+
+
+.end{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}

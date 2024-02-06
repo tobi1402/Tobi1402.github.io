@@ -1,0 +1,31 @@
+a:hover{
+    color: rgb(240, 216, 95);
+}
+
+.home:hover{
+    background-color: rgba(0, 74, 51, 0.553);
+    color: white;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+}
+
+.services:hover{
+    background-color: rgba(0, 74, 51, 0.553);
+    color: white;
+    padding: 10px 15px 10px 15px;
+    border-radius: 10px;
+    width: 25%;
+}
+
+.login:hover{
+    background-color: rgba(0, 74, 51, 0.553);
+    color: white;
+    padding: 10px 15px 10px 15px;
+    width: 16%;
+    border-radius: 10px;
+    border: none;
+}
+
+.four:hover{
+    background-color: rgba(255, 253, 244, 0.649);
+}
